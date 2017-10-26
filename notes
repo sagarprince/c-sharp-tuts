@@ -56,7 +56,9 @@ https://realpython.com/blog/python/face-recognition-with-python/
 https://thinkrpi.wordpress.com/2013/04/03/step-4-understand-face-reco/
 
 // Android Speech to text
-https://www.androidhive.info/2014/07/android-speech-to-text-tutorial/
+**https://www.androidhive.info/2014/07/android-speech-to-text-tutorial/
+**https://code.tutsplus.com/tutorials/use-text-to-speech-on-android-to-read-out-incoming-messages--cms-22524
+**https://github.com/CyanogenMod/android_packages_apps_Settings/blob/2af991d0860d5948b35efd2a0b619b1486bf9a7b/src/com/android/settings/tts/TextToSpeechSettings.java
 https://www.androidtutorialpoint.com/material-design/android-speech-text-tutorial/
 http://stacktips.com/tutorials/android/speech-to-text-in-android
 http://www.techjini.com/blog/android-speech-to-text-tutorial-part1/

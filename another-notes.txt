@@ -1,0 +1,271 @@
+Node JS
+Express JS
+PHP
+Server side templating language
+Web Rest API
+Angular JS
+Javascript
+Grunt, Gulp & Webpack
+Unit Testing using Mocha, Jasmine
+Git
+Bootstrap
+Less, Sass
+Progressive Web App
+Hosting Environment Aws
+
+	
+
+Event Bubbling and Capturing
+Design Patterns
+HTML5 -> API, Semantic Elements, Etc
+Javacript - 
+HTML - aria - https://stackoverflow.com/questions/3474099/what-is-html5-aria
+CSS - pseudo elements and classes > http://www.growingwiththeweb.com/2012/08/pseudo-classes-vs-pseudo-elements.html
+Node js -> hosted and native
+Unit testing -> jasmine & mocha -> when & expect
+Underscore js  - chain
+
+
+
+Javascript : 
+https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36
+http://javascriptissexy.com/oop-in-javascript-what-you-need-to-know/
+http://javascriptissexy.com/javascript-prototype-in-plain-detailed-language/
+https://code.tutsplus.com/tutorials/the-basics-of-object-oriented-javascript--net-7670
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Inheritance
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Closures
+
+
+Angular JS 
+https://www.w3schools.com/angular/angular_filters.asp
+http://www.c-sharpcorner.com/article/top-50-angularjs-interview-questions-and-answers/
+http://www.c-sharpcorner.com/UploadFile/dev4634/communication-between-controllers-in-angular-js/
+http://www.c-sharpcorner.com/UploadFile/ff2f08/data-binding-in-angularjs/
+http://tutlane.com/tutorial/angularjs/angularjs-watch-digest-and-apply-functions
+https://www.codementor.io/angularjs/tutorial/angularjs-interview-questions-sample-answers
+
+http://www.simplygoodcode.com/2015/11/the-difference-between-service-provider-and-factory-in-angularjs/
+https://stackoverflow.com/questions/23074875/angularjs-factory-and-service
+https://daveceddia.com/service-vs-factory/
+https://stackoverflow.com/questions/13762228/confused-about-service-vs-factory
+https://www.quora.com/What-is-the-difference-between-AngularJs-and-Angular-2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://github.com/GingerBear/Front-end-Developer-Interview-Questions-QA/tree/master/JavaScript
+
+https://msdn.microsoft.com/en-us/library/ee658099.aspx
+
+https://www.romexsoft.com/blog/scalable-website/
+
+https://www.slideshare.net/davemitz/7-stages-of-scaling-web-applications/
+
+
+
+Node JS
+https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs
+
+What is node js ?	
+Node js is built upon google chrome v8 engine. For creating fast and scalable network applications. Node js uses event driven and non-blocking I/O model so that it is lightweight and efficient for building realtime application as well.
+It is asynchronous and event driven
+It is Single threaded
+
+https://www.tutorialspoint.com/nodejs/nodejs_introduction.htm
+
+Creating Basic HTTP Server
+https://www.sitepoint.com/creating-a-http-server-in-node-js/
+https://www.tutorialspoint.com/nodejs/nodejs_first_application.htm
+
+Package Manager
+https://www.tutorialspoint.com/nodejs/nodejs_npm.htm
+
+What is Callback ?
+https://www.tutorialspoint.com/nodejs/nodejs_callbacks_concept.htm
+
+What is event loop ?
+https://www.tutorialspoint.com/nodejs/nodejs_event_loop.htm
+The Event Loop is a queue of callback functions. When an async function executes, the callback function is pushed into the queue. The JavaScript engine doesn't start processing the event loop until the code after an async function has executed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Rest API
+
+What is rest api 
+It is Representational state transfer. Rest api is a set of functions that programmers can perform request and get responses via HTTP protocols such as GET & POST.
+Because rest api uses HTTP protocol, they can be used by any programming language and easy to test. I.e client and server are independent.
+
+Client-Server, Stateless and cacheable.
+
+https://www.sitepoint.com/developers-rest-api/
+
+HTTP Response - >
+
+Response Code - Such as 200, 404
+HTTP Version - v1.1
+Response Headers - It contains metadata as key value pair such as content-length, content-type and server-type.
+Response Body - message content.
+
+Make Rest API using Node & Express JS
+https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd
+https://scotch.io/tutorials/build-a-restful-api-using-node-and-express-4
+https://jinalshahblog.wordpress.com/2016/10/06/rest-api-using-node-js-and-mysql/
+https://www.tutorialspoint.com/expressjs/expressjs_restful_apis.htm
+
+
+
+
+
+
+
+
+
+
+
+Progressive Web Apps 
+https://developers.google.com/web/updates/2015/12/getting-started-pwa
+https://developers.google.com/web/fundamentals/getting-started/codelabs/your-first-pwapp/
+https://developers.google.com/web/progressive-web-apps/
+https://developers.google.com/web/updates/2015/12/background-sync
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Unit Testing 
+
+Jasmin 
+Jasmine is an open source testing framework for JavaScript. It aims to run on any JavaScript-enabled platform, to not intrude on the application nor the IDE, and to have easy-to-read syntax. It is heavily influenced by other unit testing frameworks, such as ScrewUnit, JSSpec, JSpec, and RSpec. 
+https://jasmine.github.io/
+http://howtodoinjava.com/scripting/javascript/jasmine-javascript-unit-testing-tutorial/
+http://bittersweetryan.github.io/jasmine-presentation/#slide-68
+
+
+Mocha 
+Mocha is a feature-rich JavaScript test framework running on Node.js and in the browser, making asynchronous testing simple and fun. Mocha tests run serially, allowing for flexible and accurate reporting, while mapping uncaught exceptions to the correct test cases
+https://mochajs.org/
+
+
+
+
+
+
+
+
+
+
+
+
+Angular 2
+https://docs.google.com/document/d/17K8MP4q5aZDrVomLlZ5kbx58cLpO3ukVbaQOuB6Sdbg/edit
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Git 
+https://www.siteground.com/tutorials/git/commands.htm
+https://www.edureka.co/blog/interview-questions/git-interview-questions/
+http://career.guru99.com/top-40-interview-questions-on-git/
+
+
+Less & Sass
+http://sass-lang.com/guide
+http://lesscss.org/features/#features-overview-feature
+https://www.thebalance.com/sass-vs-less-2071912
+http://www.hongkiat.com/blog/sass-vs-less/
+
+
+Bootstrap 
+https://www.w3schools.com/bootstrap/bootstrap_grid_system.asp
